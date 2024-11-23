@@ -9,7 +9,7 @@ const Footer = () => {
         </div>
         <div className="mt-4 md:mt-0">
           <a
-            href="https://www.instagram.com/xdcoder.xyz"
+            href="https://www.instagram.com/web________developer/profilecard/?igsh=dGs0cjZ5OHEzYXdk"
             target="_blank"
             rel="noopener noreferrer"
           >

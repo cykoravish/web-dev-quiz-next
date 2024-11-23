@@ -22,8 +22,7 @@ export function SparklesPreview() {
             </h1>
 
             <p className="font-normal text-base text-white-200 mb-4 relative z-50">
-              <FaCheckCircle className="inline text-3xl text-purple pr-2" />we&apos;ve
-              build this website as a platform for JavaScript enthusiasts from
+              <FaCheckCircle className="inline text-3xl text-purple pr-2" />i build this website as a platform for JavaScript enthusiasts from
               all around the world to come together compete with each other.
             </p>
             <p className="font-normal text-base text-white-200 mb-4 relative z-50">
@@ -39,15 +38,7 @@ export function SparklesPreview() {
             </p>
             <p className="font-normal text-base text-white-200 mb-4 relative z-50">
               <FaCheckCircle className="inline text-3xl text-purple pr-2" />Top performers will receive
-              a special shoutout on our{" "}
-              <a
-                href="https://www.instagram.com/web________developer"
-                target="_blank"
-                rel="noopener noreferrer" className="text-pink-500 font-bold"
-              >
-                Instagram
-              </a>{" "}
-              handle.
+              a special shoutout.
             </p>
           </div>
         </div>

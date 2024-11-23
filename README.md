@@ -82,7 +82,7 @@ If you'd like to contribute to this project, please follow these steps:
 For any questions, feedback, or inquiries, please feel free to reach out through the following channels:
 
 - **Email:** [ravishbisht86@gmail.com](mailto:ravishbisht86@gmail.com)
-- **Instagram:** [Ravish](https://instagram.com/web________developer)
+- **Instagram:** [Ravish](https://www.instagram.com/web________developer/profilecard/?igsh=dGs0cjZ5OHEzYXdk)
 
 We value your feedback and will do our best to respond promptly!
 
